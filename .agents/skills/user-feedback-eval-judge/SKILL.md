@@ -131,3 +131,8 @@ Read [references/user-feedback-regression-standard-clean.md](references/user-fee
   "issues": [],
   "summary": ""
 }
+##References
+• Read 
+user-feedback-regression-standard-clean.md before scoring.
+• Read 
+judge-examples-clean.md when you need examples of格式映射、有效评分和无效 judge setup.
