@@ -1,4 +1,0 @@
-interface:
-  display_name: "用户反馈改写 Case"
-  short_description: "把用户反馈 trace 改写成符合 Agent 逻辑的评测 case"
-  default_prompt: "使用 $user-feedback-trace-to-eval-case，把这段用户反馈 trace 改写成可执行的评测 case；如果我提供了模板或字段格式，请按我的格式输出。"
