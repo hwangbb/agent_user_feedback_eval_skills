@@ -1,4 +1,5 @@
 # User Feedback Eval Skills for Codex
+[中文](./README.md) | [English](./README_EN.md)
 
 一套面向**生成视频类AI Agent**的 Codex skills，用来把真实用户反馈整理成可复用的回归评测流程。
 
