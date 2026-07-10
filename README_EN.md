@@ -1,4 +1,5 @@
 # User Feedback Eval Skills for Codex
+[中文](./README.md) | [English](./README_EN.md)
 
 A set of Codex skills for regression testing AI video and story agents from real user feedback.
 
