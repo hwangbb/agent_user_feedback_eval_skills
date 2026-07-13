@@ -1,0 +1,4 @@
+interface:
+  display_name: "用户反馈评测工作流"
+  short_description: "串起 trace 改写、Judge 评分和结果分析"
+  default_prompt: "使用 $user-feedback-eval-workflow，先确认我想要的评测集格式，再把原始 trace 改写成 case，收集实际输出，最后完成 judge 和结果归纳。"
