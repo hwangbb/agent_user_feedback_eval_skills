@@ -1,4 +1,0 @@
-interface:
-  display_name: "用户反馈评测 Judge"
-  short_description: "按回归标准对改写案例进行 LLM Judge 评分与归因"
-  default_prompt: "使用 $user-feedback-eval-judge，对这条评测 case 打分；如果 case 使用了自定义字段格式，请先识别字段映射再 judge。"
